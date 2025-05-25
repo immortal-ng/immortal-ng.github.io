@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Immortal Race Club</title>
+    <link>http://localhost:1313/fr/categories/</link>
+    <description>Recent content in Categories on Immortal Race Club</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 17 Dec 2021 18:19:25 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assistant</title>
+      <link>http://localhost:1313/fr/categories/assistant/</link>
+      <pubDate>Fri, 17 Dec 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/fr/categories/assistant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/fr/categories/programming/</link>
+      <pubDate>Thu, 16 Dec 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/fr/categories/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/fr/categories/github/</link>
+      <pubDate>Tue, 14 Dec 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/fr/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workstation</title>
+      <link>http://localhost:1313/fr/categories/workstation/</link>
+      <pubDate>Mon, 13 Dec 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/fr/categories/workstation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/fr/categories/technology/</link>
+      <pubDate>Mon, 08 Nov 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/fr/categories/technology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+{
+  "name": "Immortal Race Club",
+  "short_name": "Immortal Race Club",
+  "lang": "fr-fr",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
+  "background_color": "#17212B",
+  "theme_color": "#61eebc",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/developer_hu_60c1de2c5ea629b8.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/developer_hu_bbdaec8d9012b8c.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/developer_hu_399db4a41378531.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/developer_hu_9c1e9e1271e1164.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/developer_hu_36377d7ad94bb4ac.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/developer_hu_23dddf399ebf9b5a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}

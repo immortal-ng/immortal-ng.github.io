@@ -1,0 +1,16 @@
+############# English navigation ##############
+# main menu
+[[main]]
+name = "Cars"
+url = "Cars/"
+weight = 1
+
+[[main]]
+name = "Builds"
+url = "Builds/"
+weight = 2
+
+[[main]]
+name = "Guides"
+url = "Guides/"
+weight = 3

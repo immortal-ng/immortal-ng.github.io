@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Builds on Built to Endure, Tuned to Dominate</title>
+    <title>Builds on Immortal Race Club</title>
     <link>https://immortal-ng.github.io/builds/</link>
-    <description>Recent content in Builds on Built to Endure, Tuned to Dominate</description>
+    <description>Recent content in Builds on Immortal Race Club</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <language>en-us</language>
     <lastBuildDate></lastBuildDate>
     <atom:link href="https://immortal-ng.github.io/builds/index.xml" rel="self" type="application/rss+xml" />
   </channel>

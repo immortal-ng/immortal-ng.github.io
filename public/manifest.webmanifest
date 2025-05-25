@@ -1,0 +1,56 @@
+{
+  "name": "Immortal Race Club",
+  "short_name": "Immortal Race Club",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "https://immortal-ng.github.io/?utm_source=web_app_manifest",
+  "background_color": "#000",
+  "theme_color": "#61eebc",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/s2000transparent_hu_386f22383a4ec357.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/s2000transparent_hu_bfae3450d1185a7f.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/s2000transparent_hu_668a34fa3fb34212.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/s2000transparent_hu_f1c0cdf7295486b0.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/s2000transparent_hu_4854805742c5f78e.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/s2000transparent_hu_6d2d784d237c43b8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
