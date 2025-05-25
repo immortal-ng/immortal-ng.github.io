@@ -8,7 +8,7 @@ params:
   dateformShort: "Jan 2"
   dateformNum: "2006-01-02"
   dateformNumTime: "2006-01-02 15:04"
-  homeSubtitle: "A simple and beautiful blog"
+  homeSubtitle: "Immortal Race Club"
   disableReadOtherPosts: false
   enableSharingButtons: true
   enableGlobalLanguageMenu: true
