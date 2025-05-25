@@ -2,19 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/car/</loc>
+    <loc>https://immortal-ng.github.io/builds/</loc>
+    <lastmod>2025-05-24T20:50:06-04:00</lastmod>
+  </url><url>
+    <loc>https://immortal-ng.github.io/</loc>
+    <lastmod>2025-05-24T20:50:06-04:00</lastmod>
+  </url><url>
+    <loc>https://immortal-ng.github.io/cars/</loc>
+    <lastmod>2025-05-24T20:49:38-04:00</lastmod>
+  </url><url>
+    <loc>https://immortal-ng.github.io/guides/fa5brembogt/</loc>
     <lastmod>2025-05-24T20:30:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://immortal-ng.github.io/guides/</loc>
     <lastmod>2025-05-24T20:30:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-24T20:30:39-04:00</lastmod>
+    <loc>https://immortal-ng.github.io/informational/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://immortal-ng.github.io/series/</loc>
   </url>
 </urlset>

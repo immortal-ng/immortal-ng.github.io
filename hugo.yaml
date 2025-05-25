@@ -8,36 +8,40 @@ params:
   dateformShort: "Jan 2"
   dateformNum: "2006-01-02"
   dateformNumTime: "2006-01-02 15:04"
-  homeSubtitle: "Immortal Race Club"
+  homeSubtitle: " Unbreakable Machines. Unstoppable Drivers."
   disableReadOtherPosts: false
   enableSharingButtons: true
   enableGlobalLanguageMenu: true
-  description: "My new homepage or blog"
-  keywords: "homepage, blog"
-  images:
-    - ""
+  description: "Built to Endure, Tuned to Dominate"
+  keywords: "cars"
+  author: "Immortal Race Club"
 
 taxonomies:
-  category: "blog"
-  tag: "tags"
+  category: "informational"
+  tag: "Cars"
   series: "series"
 
 languages:
   en:
-    title: "Hello Friend NG"
+    title: "Built to Endure, Tuned to Dominate"
     keywords: ""
     copyright: '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts: "Read other posts"
     params:
-      subtitle: "A simple theme for Hugo"
+      subtitle: "Immortal Race Club"
       logo:
-        logoText: "hello friend ng"
+        logoText: "Immortal Race Club"
         logoHomeLink: "/"
-        # path: "/img/your-example-logo.svg"
         # alt: "Your example logo alt text"
 
 menu:
   main:
-    - identifier: "blog"
-      name: "Blog"
-      url: "/posts"
+    - identifier: "Builds"
+      name: "Builds"
+      url: "/builds"
+    - identifier: "Guides"
+      name: "Guides"
+      url: "/Guides"
+    - identifier: "Cars"
+      name: "Cars"
+      url: "/Cars"
