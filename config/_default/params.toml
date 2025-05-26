@@ -23,6 +23,7 @@ custom_script = ""
 
 [variables]
 body_color = "#000"
+font_primary_color = "#FFF"
 font_primary = "KTN"
 font_primary_type = "Roboto"
 
