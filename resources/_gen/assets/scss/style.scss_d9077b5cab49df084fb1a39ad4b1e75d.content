@@ -8424,10 +8424,7 @@ section.intro-banner {
 .footer-text {
   color: white; }
 
-.designation {
-  color: white; }
-
-.footer-text, .tagline {
+.designation, .hero-designation, .footer-text .tagline {
   color: white; }
 
 .accordion {
@@ -8604,10 +8601,7 @@ section.intro-banner {
 .footer-text {
   color: white; }
 
-.designation {
-  color: white; }
-
-.footer-text, .tagline {
+.designation, .hero-designation, .footer-text .tagline {
   color: white; }
 
 /* Make the home page 'designation' field white */
