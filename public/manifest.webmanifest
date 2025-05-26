@@ -4,7 +4,7 @@
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "https://immortal-ng.github.io/?utm_source=web_app_manifest",
+  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
   "background_color": "#000",
   "theme_color": "#61eebc",
 
@@ -20,33 +20,33 @@
   
   "icons": [
     {
-      "src": "/images/s2000transparent_hu_386f22383a4ec357.png",
+      "src": "/images/immortal_race_club_4k_hu_fd382820a1be2f35.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/images/s2000transparent_hu_bfae3450d1185a7f.png",
+      "src": "/images/immortal_race_club_4k_hu_50aadda993f5f672.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/images/s2000transparent_hu_668a34fa3fb34212.png",
+      "src": "/images/immortal_race_club_4k_hu_2f67f5f341e11f57.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/images/s2000transparent_hu_f1c0cdf7295486b0.png",
+      "src": "/images/immortal_race_club_4k_hu_34af24d3d6387457.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/images/s2000transparent_hu_4854805742c5f78e.png",
+      "src": "/images/immortal_race_club_4k_hu_d50c3d532069d496.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/images/s2000transparent_hu_6d2d784d237c43b8.png",
+      "src": "/images/immortal_race_club_4k_hu_8072171093ed90ae.png",
       "sizes": "512x512",
       "type": "image/png"
     }

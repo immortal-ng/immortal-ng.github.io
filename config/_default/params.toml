@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/s2000transparent.png"
+favicon = "images/immortal_race_club_4k.png"
 # Preloader
 preloader = false
 # search
@@ -45,8 +45,8 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 [metadata]
 keywords = ["Hydrogen", "Hugo", "Themefisher", "GetHugoThemes", "Statichunt"]
 description = "Built to Endure, Tuned to Dominate"
-author = "Statichunt"
-image = "static/img/s2000transparent.png" # this image will be used as fallback if a page has no image of its own
+author = "immortal"
+image = "static/img/immortal_race_club_4k.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
 [matomo]

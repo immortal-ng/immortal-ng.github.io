@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Immortal Race Club</title>
-    <link>https://immortal-ng.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Immortal Race Club</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 May 2025 20:30:39 -0400</lastBuildDate>
-    <atom:link href="https://immortal-ng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>8th Generation Civic Si Brembo GT Installation Instructions</title>
-      <link>https://immortal-ng.github.io/guides/fa5brembogt/</link>
+      <link>http://localhost:1313/guides/fa5brembogt/</link>
       <pubDate>Sat, 24 May 2025 20:30:39 -0400</pubDate>
-      <guid>https://immortal-ng.github.io/guides/fa5brembogt/</guid>
+      <guid>http://localhost:1313/guides/fa5brembogt/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact Me</title>
-      <link>https://immortal-ng.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://immortal-ng.github.io/contact/</guid>
-      <description>&lt;h4 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore&#xA;et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>https://immortal-ng.github.io/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://immortal-ng.github.io/elements/</guid>
-      <description>&lt;h1 id=&#34;h1-heading&#34;&gt;H1 Heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-heading&#34;&gt;H2 Heading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-heading&#34;&gt;H3 Heading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-heading&#34;&gt;H4 Heading&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-heading&#34;&gt;H5 Heading&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-heading&#34;&gt;H6 Heading&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;h5 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h5&gt;&#xA;&lt;p&gt;Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h4 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h4&gt;&#xA;&lt;p&gt;EMAIL COMING SOON&lt;/p&gt;&#xA;&lt;h6 id=&#34;location&#34;&gt;Location:&lt;/h6&gt;&#xA;&lt;p&gt;Unknown &lt;br&gt;&#xA;Nonya,  31337&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "Immortal Race Club"
-image: "images/s2000transparent.png"
+image: "images/immortal_race_club_4k.png"
 designation: "Built to Endure, Tuned to Dominate"
 description: "Unbreakable Machines. Unstoppable Drivers."
 ---
