@@ -8422,10 +8422,10 @@ section.intro-banner {
   color: white; }
 
 .footer-text {
-  color: white; }
+  color: white !important; }
 
-.designation, .hero-designation, .footer-text .tagline {
-  color: white; }
+.text-primary, .hero-designation, .footer-text .tagline {
+  color: white !important; }
 
 .accordion {
   border: 1px solid #ccc; }
@@ -8599,10 +8599,10 @@ section.intro-banner {
   color: white; }
 
 .footer-text {
-  color: white; }
+  color: white !important; }
 
-.designation, .hero-designation, .footer-text .tagline {
-  color: white; }
+.text-primary, .hero-designation, .footer-text .tagline {
+  color: white !important; }
 
 /* Make the home page 'designation' field white */
 .intro-banner .lead.text-primary {
