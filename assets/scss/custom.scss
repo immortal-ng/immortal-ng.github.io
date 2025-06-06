@@ -16,6 +16,20 @@ img.rounded-circle {
   padding-top: 0;
 }
 
+.navbar-collapse a.active,
+.navbar-collapse a:hover {
+  color: white !important;
+}
+
+
+nav a.active,
+.navbar a.active,
+.menu a.active,
+nav li.active > a {
+  color: white !important;
+  font-family: "KTN" !important;
+}
+
 /* Adjust the logo */
 section.intro-banner {
   margin-top: 2%;
@@ -30,4 +44,13 @@ section.intro-banner {
 }
 .text-primary, .hero-designation, .footer-text .tagline{
   color: white !important;
+}
+/* Only affect the homepage title */
+.homepage-title {
+  font-family: 'KTN';
+  font-size: 48px;
+}
+
+.homepage-text-primary {
+  font-family: 'KTN';
 }

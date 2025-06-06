@@ -7493,7 +7493,7 @@ html {
   font-size: 16px; }
 
 body {
-  font-family: "KTN", Roboto;
+  font-family: "Questrial", sans-serif;
   font-weight: 400;
   line-height: 1.75;
   color: #cbcbcb; }
@@ -7512,7 +7512,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "KTN", Roboto;
+  font-family: "Questrial", sans-serif;
   font-weight: 400;
   color: #fff; }
 
@@ -7661,7 +7661,7 @@ h1,
 /* Button style */
 .btn {
   font-size: 0.9rem;
-  font-family: "KTN", Roboto;
+  font-family: "Questrial", sans-serif;
   text-transform: capitalize;
   padding: .67em 1em;
   padding-top: .8em;
@@ -8413,6 +8413,17 @@ img.rounded-circle {
   font-size: 30px;
   padding-top: 0; }
 
+.navbar-collapse a.active,
+.navbar-collapse a:hover {
+  color: white !important; }
+
+nav a.active,
+.navbar a.active,
+.menu a.active,
+nav li.active > a {
+  color: white !important;
+  font-family: "KTN" !important; }
+
 /* Adjust the logo */
 section.intro-banner {
   margin-top: 2%;
@@ -8426,6 +8437,14 @@ section.intro-banner {
 
 .text-primary, .hero-designation, .footer-text .tagline {
   color: white !important; }
+
+/* Only affect the homepage title */
+.homepage-title {
+  font-family: 'KTN';
+  font-size: 48px; }
+
+.homepage-text-primary {
+  font-family: 'KTN'; }
 
 .accordion {
   border: 1px solid #ccc; }
@@ -8590,6 +8609,17 @@ img.rounded-circle {
   font-size: 30px;
   padding-top: 0; }
 
+.navbar-collapse a.active,
+.navbar-collapse a:hover {
+  color: white !important; }
+
+nav a.active,
+.navbar a.active,
+.menu a.active,
+nav li.active > a {
+  color: white !important;
+  font-family: "KTN" !important; }
+
 /* Adjust the logo */
 section.intro-banner {
   margin-top: 2%;
@@ -8603,6 +8633,14 @@ section.intro-banner {
 
 .text-primary, .hero-designation, .footer-text .tagline {
   color: white !important; }
+
+/* Only affect the homepage title */
+.homepage-title {
+  font-family: 'KTN';
+  font-size: 48px; }
+
+.homepage-text-primary {
+  font-family: 'KTN'; }
 
 /* Make the home page 'designation' field white */
 .intro-banner .lead.text-primary {
